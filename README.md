@@ -1,8 +1,8 @@
-**Node Tour – Immerse Yourself in Tour Wonders**
+## Node Tour – Immerse Yourself in Tour Wonders
 
 Discover and book extraordinary outdoor adventures with Node Tour, a feature-rich tour booking platform built using Node.js.  
 
-**Key Features 📝**
+## Key Features 📝
 
 * **Comprehensive User Management:** Secure signup, login, logout, password resets, and profile updates ensure a seamless user experience.
 * **Role-Based Permissions:** Control access levels with designated roles for regular users, administrators, lead guides, and guides.
